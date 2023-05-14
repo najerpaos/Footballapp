@@ -1,0 +1,34 @@
+[
+{
+    "name":"AJ Katzenmaier Elementary",
+    "address":"24 W. Walton St., Chicago, IL 60610",
+    "mapURL":"https://goo.gl/maps/BQwv4ViHxaxz9Dvh6"},
+  
+    {
+        "name":"Greenbay Elementary",
+        "address":"1734 N. Orleans St., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/i1hDNDcRzm6ih1xT9"},
+        
+  {
+        "name":"Howard A Yeager Elementary",
+        "address":"2245 N. Southport Ave., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/JV1jvGoyDnpkwHpd9"},
+    
+   {
+        "name":"Marjorie P Hart Elementary",
+        "address":"2625 N. Orchard St., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/BQwv4ViHxaxz9Dvh6"},
+      
+   {
+        "name":"North Elementary",
+        "address":"1409 N. Ogden Ave., Chicago, IL 60610",
+        "mapURL":"https://goo.gl/maps/tkqvchatUzSoQNgn7"},
+        
+   {
+        "name":"South Elementary",
+        "address":"2101 N. Fremont St., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/fSzp6EvhYM8GpjMT9"}
+   ]
+
+
+

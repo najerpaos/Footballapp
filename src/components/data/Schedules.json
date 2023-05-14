@@ -1,0 +1,131 @@
+{
+"locations":{
+    "Katzenmaier":{
+    "name":"AJ Katzenmaier Elementary",
+    "address":"24 W. Walton St., Chicago, IL 60610",
+    "mapURL":"https://goo.gl/maps/BQwv4ViHxaxz9Dvh6"},
+  
+    "Greenbay":{
+        "name":"Greenbay Elementary",
+        "address":"1734 N. Orleans St., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/i1hDNDcRzm6ih1xT9"},
+        
+    "Howard":{
+        "name":"Howard A Yeager Elementary",
+        "address":"2245 N. Southport Ave., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/JV1jvGoyDnpkwHpd9"},
+    
+    "Marjorie":{
+        "name":"Marjorie P Hart Elementary",
+        "address":"2625 N. Orchard St., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/BQwv4ViHxaxz9Dvh6"},
+      
+    "North":{
+        "name":"North Elementary",
+        "address":"1409 N. Ogden Ave., Chicago, IL 60610",
+        "mapURL":"https://goo.gl/maps/tkqvchatUzSoQNgn7"},
+        
+    "South":{
+        "name":"South Elementary",
+        "address":"2101 N. Fremont St., Chicago, IL 60614",
+        "mapURL":"https://goo.gl/maps/fSzp6EvhYM8GpjMT9"}
+    },
+
+"games":{
+    "2021_09_01_1":{
+        "date":"9/01",
+        "time":"9:30 a.m",
+        "teams":"U1 and U4"
+    },
+    "2021_09_01_2":{
+        "date":"9/01",
+        "time":"1:00 p.m",
+        "teams":"U3 and U2"
+    },
+    
+    "2021_09_08_1":{
+        "date":"9/08",
+        "time":"9:30 a.m",
+        "teams":"U5 and U6"
+    },
+    "2021_09_08_2":{
+        "date":"9/08",
+        "time":"1:00 p.m",
+        "teams":"U6 and U1"
+    },
+    
+    "2021_09_15_1":{
+        "date":"9/15",
+        "time":"9:30 a.m",
+        "teams":"U2 and U4"
+    },
+    "2021_09_15_2":{
+        "date":"9/15",
+        "time":"1:00 p.m",
+        "teams":"U3 and U5"
+    },
+    
+    "2021_09_22_1":{
+        "date":"9/22",
+        "time":"9:30 a.m",
+        "teams":"U1 and U3"
+    },
+    "2021_09_22_2":{
+        "date":"9/22",
+        "time":"1:00 p.m",
+        "teams":"U2 and U6"
+    },
+    
+    "2021_09_29_1":{
+        "date":"9/29",
+        "time":"9:30 a.m",
+        "teams":"U4 and U5"
+    },
+    
+    "2021_10_06_1":{
+        "date":"10/06",
+        "time":"9:30 a.m",
+        "teams":"U2 and U5"
+    },
+    "2021_10_06_2":{
+        "date":"10/06",
+        "time":"1:00 p.m",
+        "teams":"U1 and U6"
+    },
+   
+    "2021_10_13_1":{
+        "date":"10/13",
+        "time":"9:30 a.m",
+        "teams":"U3 and U4"
+    },
+    "2021_10_13_2":{
+        "date":"10/13",
+        "time":"1:00 p.m",
+        "teams":"U5 and U1"
+    },
+    
+    "2021_10_20_1":{
+        "date":"10/20",
+        "time":"9:30 a.m",
+        "teams":"U6 and U3"
+    },
+    "2021_10_20_2":{
+        "date":"10/20",
+        "time":"1:00 p.m",
+        "teams":"U2 and U4"
+    },
+    
+    "2021_10_27_1":{
+        "date":"10/27",
+        "time":"9:30 a.m",
+        "teams":"U3 and U1"
+    },
+    "2021_10_27_2":{
+        "date":"10/27",
+        "time":"1:00 p.m",
+        "teams":"U5 and U6"
+    }
+
+}
+}
+
