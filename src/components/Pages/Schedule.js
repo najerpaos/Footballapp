@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
-import scheduleG from './data/scheduleG.json'
-import scheduleL from './data/scheduleL.json'
+import scheduleG from '../data/scheduleG.json'
+import scheduleL from '../data/scheduleL.json'
 
 
    const Schedule=()=>{
@@ -9,13 +9,12 @@ import scheduleL from './data/scheduleL.json'
     const [games,setgames]=useState(scheduleG)
     
     return( <><div>
-      <table class="table table-bordered border-dark table-striped table-hover">
-        <thead class="table-danger">
+      <table className="table table-striped table-hover text-center">
+        <thead className="table-danger table-bordered border-dark ">
           <tr>
             <th>Location name</th>
             <th>Location adress</th>
             <th>Google maps URL</th>
-
           </tr>
         </thead >
         <tbody>
@@ -31,8 +30,8 @@ import scheduleL from './data/scheduleL.json'
     </div>
 
     <div>
-      <table class="table table-bordered border-dark table-striped table-hover">
-        <thead class="table-warning">
+      <table className="table table-striped table-hover text-center">
+        <thead className="table-warning table-bordered-bottom border-dark">
           <tr>
             <th>Date</th>
             <th>Time</th>
@@ -47,7 +46,7 @@ import scheduleL from './data/scheduleL.json'
             <td>{elem.time}</td>
             <td>{elem.teams}</td>
             <td>{elem.game}</td>
-            <Link to={`/game/${elem.id}`}><td>Details</td></Link>
+            <td><Link to={`/game/${elem.id}`}>Details</Link></td>
           </tr>
           )
           )}

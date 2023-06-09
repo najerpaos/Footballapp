@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React,{useState} from 'react'
-import scheduleG from './data/scheduleG.json'
+import scheduleG from '../data/scheduleG.json'
 import { useParams } from 'react-router-dom'
 
 
@@ -12,9 +12,9 @@ const GameDetailTable=()=>{
     
   
     return (<>
-        <h1>Game Details {id}</h1>
-        <table class="table table-bordered border-dark table-striped table-hover">
-          <thead class="table-warning">
+        <h1 style={{textAlign:'center'}}>Game Details {id}</h1>
+        <table className="table table-striped table-hover text-center">
+          <thead className="table-warning table-bordered-bottom border-dark">
             <tr>
               <th>Date</th>
               <th>Time</th>
@@ -36,10 +36,11 @@ const GameDetailTable=()=>{
           )}
 
           {foo.map((web)=>(
-            <iframe src={web.map} width="600" height="450" frameborder="0" allowfullscreen></iframe>
+            <iframe src={web.map} width="700" height="400" frameborder="0" allowfullscreen style={{ position: 'absolute', left: '27%', top: '30%'}}></iframe>
           )
           )}
 
+          
 
           <></>
 
@@ -47,7 +48,7 @@ const GameDetailTable=()=>{
         </tbody>
         </table>
 
-
+      
         </>
     
     )

@@ -1,8 +1,8 @@
 import React from 'react'
 
 const Homescreen=()=>{
-    return <table class="table table-bordered border-dark table-striped table-hover">
-      <thead class="table-success">
+    return <table className="table table-striped table-hover text-center">
+      <thead className="table-success table-bordered-bottom border-dark">
         <tr>
           <th>Date</th>
           <th>Event</th>
